@@ -20,7 +20,7 @@ Este es un proyecto base de Android con soporte para Java 11, diseñado para ser
 
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/tu-usuario/redurxmlgroovy.git
+git clone https://github.com/jorgenavarroenamoradotokio/androidGroovy.git
 ```
 2. Ábrelo en Android Studio (Giraffe o superior).
 3. Espera a que finalice la sincronización de Gradle.
